@@ -14,6 +14,8 @@ Results
 #correlation to show the most correlation between data 
 plt.figure(figsize=(10, 10))
 sns.heatmap(corr, cmap= 'coolwarm', annot=True)
+![image](https://user-images.githubusercontent.com/102007410/167274201-026fbee5-ba96-47a0-812f-bd9042a83c56.png)
+
 <matplotlib.axes._subplots.AxesSubplot at 0x7ff6f044dc50>
 
 Recommendations
