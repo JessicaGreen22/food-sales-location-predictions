@@ -1,5 +1,5 @@
 
-Sales Predictions
+Suprise Sales at Supermarkets
 Predictions of Sales at Different Types of Salesmarkets
 
 Jessica Green
