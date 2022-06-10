@@ -18,6 +18,9 @@ correlation to show the most correlation between data
 
 
 Recommendations
+
 Limitations & Next Steps
+Data not needed is included that is irrelevant to sales and can make data more complex than needed. 
+Include only relevant data to sales in supermarkets and future sales predictions.
 
 Additional information and questions, please contact greenmomn_2@yahoo.com
