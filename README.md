@@ -18,6 +18,7 @@ correlation to show the most correlation between data
 
 
 Recommendations
+Item MRp makes the biggest influence on sales 
 
 Limitations & Next Steps
 Data not needed is included that is irrelevant to sales and can make data more complex than needed. 
