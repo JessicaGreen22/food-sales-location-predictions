@@ -7,7 +7,7 @@ Jessica Green
 Predict Sales revenue for items at different supermarket types.
 
 Data
-'/content/sales_predictions.csv
+https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/
 
 Methods
 Results
