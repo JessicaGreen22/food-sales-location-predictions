@@ -10,6 +10,7 @@ Data
 https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/
 
 Methods
+Linear Regression will show the correlation to each feature and what has biggest correlation to the sales. 
 Results
 correlation to show the most correlation between data 
 
@@ -18,7 +19,7 @@ correlation to show the most correlation between data
 
 
 Recommendations
-Item MRp makes the biggest influence on sales 
+Item MRp makes the biggest influence on sales and the visibility for sales. Suggestion of targeting the price and visibility to customers.
 
 Limitations & Next Steps
 Data not needed is included that is irrelevant to sales and can make data more complex than needed. 
