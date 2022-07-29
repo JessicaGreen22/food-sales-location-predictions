@@ -19,7 +19,7 @@ correlation to show the most correlation between data
 
 
 Recommendations
-Item MRp makes the biggest influence on sales and the visibility for sales. Suggestion of targeting the price and visibility to customers.
+Item MRP makes the biggest influence on sales and the visibility for sales. Suggestion of targeting the price and visibility to customers.
 
 Limitations & Next Steps
 Data not needed is included that is irrelevant to sales and can make data more complex than needed. 
